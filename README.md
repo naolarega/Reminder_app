@@ -1,5 +1,5 @@
-### Reminder app
+## Reminder app
 this is a simple reminder app just for trying out android app development
 
-## Usage
+#### Usage
 coming soon
